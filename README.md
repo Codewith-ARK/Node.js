@@ -4,6 +4,6 @@ This repository contains all the Node.js/Express.js code I have written
 
 ## Projects
 
-- **[Weather Application](WeatherProject/index.js)**
-- **[BMI Calculator](BMI-calculator/index.js)**
-- **[Simple Calculator](calculator-in-node.js/calculator.js)**
+- **[Weather Application](WeatherProject/index.html)**
+- **[BMI Calculator](BMI-calculator/index.html)**
+- **[Simple Calculator](calculator-in-node.js/calculator.html)**
